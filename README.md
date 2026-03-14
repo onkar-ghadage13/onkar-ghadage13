@@ -3,7 +3,7 @@
 <h3 align="center">MERN Stack Developer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;DSA+Problem+Solver;Future+Software+Engineer;Open+Source+Learner&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+from+PVGCOET;200%2B+DSA+Problems+Solved;Building+Scalable+Full+Stack+Apps;Exploring+AI+%26+Machine+Learning&center=true&width=550&height=45">
 </p>
 
 ---
@@ -18,11 +18,9 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech E&TC Student  
-💻 MERN Stack Developer  
-📚 Solved 200+ DSA Problems  
-⚡ Currently Learning System Design & Backend  
-🔥 Love building real-world applications  
+🎓 B.E. E&TC Student at PVGCOET Pune
+💻 MERN Stack Developer | 📚 200+ DSA Problems | 🤖 AI/ML Explorer
+🚀 Building real-world applications and strong problem-solving skills
 
 ---
 
