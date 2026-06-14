@@ -10,7 +10,7 @@
 
 ## 👀 Profile Visitors
 
-<p align="center">
+ <p align="center">
 <img src="https://komarev.com/ghpvc/?username=onkar-ghadage13&label=Profile%20views&color=blue&style=flat"/>
 </p>
 
