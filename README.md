@@ -20,7 +20,7 @@
 
 🎓 B.E. E&TC Student at PVGCOET Pune
 💻 MERN Stack Developer | 📚 200+ DSA Problems | 🤖 AI/ML Explorer
-🚀 Building real-world applications and strong problem-solving skills
+🚀 Building real-world applications and strong problem-solving skills 
 
 ---
 
