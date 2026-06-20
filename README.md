@@ -8,7 +8,7 @@
 
 ---
 
-## 👀 Profile Visitors
+## 👀 Profile Visitors  
 
  <p align="center">
 <img src="https://komarev.com/ghpvc/?username=onkar-ghadage13&label=Profile%20views&color=blue&style=flat"/>
@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 🎓 B.E. E&TC Student at PVGCOET Pune
-💻 MERN Stack Developer | 📚 200+ DSA Problems | 🤖 AI/ML Explorer
+💻 MERN Stack Developer | 📚 300+ DSA Problems | 🤖 AI/ML Explorer
 🚀 Building real-world applications and strong problem-solving skills 
 
 ---
