@@ -3,7 +3,7 @@
 <h3 align="center">MERN Stack Developer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+from+PVGCOET;200%2B+DSA+Problems+Solved;Building+Scalable+Full+Stack+Apps;Exploring+AI+%26+Machine+Learning&center=true&width=550&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+from+PVGCOET;300%2B+DSA+Problems+Solved;Building+Scalable+Full+Stack+Apps;Exploring+AI+%26+Machine+Learning&center=true&width=550&height=45">
 </p>
 
 ---
