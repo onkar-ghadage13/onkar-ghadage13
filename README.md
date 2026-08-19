@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./animated-banner.svg" width="100%" alt="Animated Tech Banner">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=200&section=header&text=Onkar%20Ghadage&fontSize=50&animation=fadeIn" width="100%">
   <br><br>
 
   <a href="https://github.com/onkar-ghadage13">
