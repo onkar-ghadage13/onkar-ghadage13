@@ -20,8 +20,8 @@
     <a href="https://codolio.com/profile/Onkar_Ghadage"><img src="https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"></a>
   </p>
 
-<!-- Flat style -->
-<img src="https://komarev.com/ghpvc/?username=onkar-ghadage13&label=Profile%20Views&color=F97316&style=flat">
+<!-- Flat style 
+ <img src="https://komarev.com/ghpvc/?username=onkar-ghadage13&label=Profile%20Views&color=F97316&style=flat"> -->
 
 <!-- With icon -->
 <img src="https://komarev.com/ghpvc/?username=onkar-ghadage13&label=Profile+Views&color=F97316&style=for-the-badge&abbreviated=true">
